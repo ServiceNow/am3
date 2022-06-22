@@ -1,3 +1,5 @@
+*ServiceNow completed its acquisition of Element AI on January 8, 2021. All references to Element AI in the materials that are part of this project should refer to ServiceNow.*
+
 # ADAPTIVE CROSS-MODAL FEW-SHOT LEARNING (AW3)
 
 Code for paper Adaptive Cross-Modal Few-shot Learning. [[Arxiv]](http://www.dropwizard.io/1.0.2/docs/)
